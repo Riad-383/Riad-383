@@ -22,7 +22,8 @@ Skills: DART/ FLUTTER / RESTFUL API / FIRE BASE / OOP / MY SQL / HTML / CSS / JA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Riad-383&show_icons=true)
 
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Riad-383)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Riad-383&bg_color=190f4d&color=fefbfd&line=e6e0e6&point=e60a41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Riad-383)  
 

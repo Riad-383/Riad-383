@@ -1,7 +1,6 @@
-![App Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
-
 ### Hi there 👋, I'm Riad
 #### App Developer
+![App Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 I'm always seeking for a challenging role where I can apply my
 technical skills and knowledge to develop innovative solutions. I am passionate about utilizing emerging technologies to solve complex problems and am eager to contribute to a dynamic team in a fast-paced environment. 
@@ -23,8 +22,5 @@ Skills: DART/ FLUTTER / RESTFUL API / FIRE BASE / OOP / MY SQL / HTML / CSS / JA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Riad-383&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Riad-383)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Riad-383)  
 
-![Profile views](https://gpvc.arturio.dev/Riad-383)  

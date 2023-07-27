@@ -1,6 +1,6 @@
 ![App Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
-### Hi there 👋, I'm Riad
-#### App Developer
+## Hi there 👋, I'm Riad
+### App Developer
 
 
 I'm always seeking for a challenging role where I can apply my

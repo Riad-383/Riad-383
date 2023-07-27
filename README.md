@@ -1,6 +1,7 @@
+![App Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 ### Hi there 👋, I'm Riad
 #### App Developer
-![App Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+
 
 I'm always seeking for a challenging role where I can apply my
 technical skills and knowledge to develop innovative solutions. I am passionate about utilizing emerging technologies to solve complex problems and am eager to contribute to a dynamic team in a fast-paced environment. 
